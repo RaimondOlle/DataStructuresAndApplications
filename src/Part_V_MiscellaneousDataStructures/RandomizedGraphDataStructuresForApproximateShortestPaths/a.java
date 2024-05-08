@@ -1,0 +1,4 @@
+package Part_V_MiscellaneousDataStructures.RandomizedGraphDataStructuresForApproximateShortestPaths;
+
+public class a {
+}
